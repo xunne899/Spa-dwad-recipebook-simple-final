@@ -1,7 +1,7 @@
 import React from "react";
 import axios from "axios";
 export default class AddNew extends React.Component {
-  url = "https://3000-rose-cephalopod-vwyodmuv.ws-us09.gitpod.io/";
+  url = "https://8888-xunne899-dwadrecipeapi-byefmbidvc9.ws-us47.gitpod.io/";
 
   state = {
     newTitle: "",
